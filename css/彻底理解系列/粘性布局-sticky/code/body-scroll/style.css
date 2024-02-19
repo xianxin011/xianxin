@@ -1,0 +1,36 @@
+body {
+  width: 500px;
+  margin: 0 auto;
+}
+.header, 
+.footer {
+  background-color: green;
+  color: #fff;
+  text-align: center;
+}
+
+.header {
+  height: 200px;
+  line-height: 200px;
+}
+
+
+.footer {
+  height: 900px;
+  line-height: 900px;
+}
+
+.article {
+  margin: 20px 0;
+}
+
+.title {
+  position: sticky;
+  top: 0;
+  background-color: #fff;
+}
+
+.content p{
+  margin-bottom: 15px;
+}
+

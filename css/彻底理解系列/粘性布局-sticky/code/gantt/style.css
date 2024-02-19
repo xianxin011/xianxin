@@ -1,0 +1,100 @@
+
+.gannt {
+  margin: 200px auto;
+  width: 80vw;
+  height: 200px;
+  overflow: hidden;
+  background-color: #343F56;
+}
+
+.container {
+  overflow: auto;
+  height: 100%;
+  display: flex;
+}
+
+.left {
+  flex-shrink: 0;
+  position: sticky;
+  left: 0;
+  width: 200px;
+  background-color: #FB9300;
+  z-index: 4;
+  color: #fff;
+}
+
+.left-title {
+  position: sticky;
+  top: 0;
+  height: 44px;
+  line-height: 44px;
+  background-color: #F5E6CA;
+}
+
+.left-content-item {
+  height: 40px;
+}
+
+.left,
+.main {
+  height: 990px;
+}
+
+.time-line {
+  position: sticky;
+  top: 0;
+  z-index: 3;
+}
+
+.years,
+.months {
+  display: flex;
+  align-items: center;
+  z-index: 3;
+}
+
+.year,
+.months > div {
+  flex-shrink: 0;
+  background-color: #F5E6CA;
+}
+
+/* 最后一年的年份会跑掉 */
+.year {
+  width: 600px;
+  position: sticky;
+  left: 200px;
+}
+
+.year-value {
+  position: sticky;
+  left: 0;
+}
+
+.months > div {
+  width: 50px;
+}
+
+.graph {
+  position: relative;
+}
+
+.graph-item {
+  position: absolute;
+  height: 40px;
+}
+
+.graph-item:nth-child(1) {
+  top: 0;
+  left: 300px;
+  width: 100px;
+  background-color: green;
+
+}
+
+.graph-item:nth-child(2) {
+  top: 40px;
+  left: 250px;
+  width: 90px;
+  background-color: blue;
+}

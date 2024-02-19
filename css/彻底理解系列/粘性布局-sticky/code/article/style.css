@@ -1,0 +1,42 @@
+
+.viewport {
+  margin: 200px auto;
+  width: 50%;
+  overflow: hidden;
+  height: 200px;
+}
+
+.container {
+  overflow: auto;
+  height: 100%;
+}
+
+.article {
+  margin-bottom: 10px;
+}
+
+.sticky-header {
+  position: sticky;
+  top: 0;
+  padding: 5px 0;
+  background-color:#fff;
+}
+
+.article-content {
+  margin-bottom: 20px;
+}
+
+h2 {
+  margin: 0 0 5px 0;
+}
+
+button + button {
+  margin-left: 5px;
+}
+
+.scroll-height {
+  width: 200px;
+  height: 100%;
+  background-color: green;
+  overflow: auto;
+}
