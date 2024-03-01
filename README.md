@@ -14,7 +14,7 @@
 
 [Ant-Design-Pro-Components](https://pro-components.antdigital.dev/)
 
-[Ant-Design-Mobile]([Ant Design Mobile - Ant Design Mobile](https://ant-design-mobile.antgroup.com/zh))
+[Ant Design Mobile - Ant Design Mobile](https://ant-design-mobile.antgroup.com/zh)
 
 [Ant-Design-Mini](https://ant-design-mini.antgroup.com/)
 
@@ -26,11 +26,11 @@
 
 [一个 Vue 3 UI 框架 | Element Plus](https://element-plus.org/zh-CN/)
 
-[Ant Design of Vue]([Ant Design Vue — An enterprise-class UI components based on Ant Design and Vue.js](https://www.antdv.com/docs/vue/introduce-cn))
+[Ant Design Vue — An enterprise-class UI components based on Ant Design and Vue.js](https://www.antdv.com/docs/vue/introduce-cn)
 
 [Wave UI](https://antoniandre.github.io/wave-ui/)
 
-[Vuestic]([https://ui.vuestic.dev/](https://ui.vuestic.dev/))
+[Vuestic](https://ui.vuestic.dev/)
 
 [Ionic](https://ionicframework.com/docs/vue/overview)
 
